@@ -15,7 +15,7 @@ If I got new ideas, I will add them here. If you got a good idea, open an Issue 
  - API
 	- [x] Basic API for Payloads, Actions and Settings
 	- [x] Plugin support
-	- [ ] Support for random Payload Delays
+	- [x] Support for random Payload Delays
 	- [x] Plugins can provide their own JavaScript additions
 	- [x] API for Global Actions (e.g. Screenshot and Run Script)
  - Coding
@@ -35,12 +35,12 @@ If I got new ideas, I will add them here. If you got a good idea, open an Issue 
 	- [x] Draw Pixels to Screen
 	- [x] Crash PC
 	- [x] Earthquake (Shaking Screen)
-	- [ ] Shaking Windows
-	- [ ] Show/Hide Windows
+	- [x] Shaking Windows
+	- [x] Show/Hide Windows
 	- [x] Crash single Program
 	- [x] Draw uploaded Images
 		- [x] Draw to layered window
-		- [ ] VineMEMZ Drawing Effect
-	- [ ] Play uploaded Sounds
+		- [x] VineMEMZ Drawing Effect
+	- [x] Play uploaded Sounds
 	- [x] Text to Speech Output
 	- [ ] Multi-Monitor support for payloads
